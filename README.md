@@ -6,9 +6,9 @@
 <!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/edemgold) -->
 <!-- [![My Website](https://img.shields.io/website?label=My-Webiste&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://goldedem.hashnode.dev/) -->
 
-- 🔭 I'm currently working on [**on a project**](github.com/johntrecker/Mortimer)
+- 🔭 I'm currently working on [**a project**](github.com/johntrecker/Mortimer)
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
