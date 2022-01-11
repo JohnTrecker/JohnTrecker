@@ -1,14 +1,14 @@
 <h1 align="Left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is John Trecker</h1>
 
 <!-- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johntrecker) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johntrecker/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johntrecker/) -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johntrecker)
 <!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/edemgold) -->
-<!-- [![My Website](https://img.shields.io/website?label=My-Webiste&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://goldedem.hashnode.dev/) -->
+[![My Website](https://img.shields.io/website?label=My-Webiste&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://johntrecker.com)
 
 - 🔭 I'm currently working on [**a project**](github.com/johntrecker/Mortimer)
 
-- 🌱 I’m currently learning **NLP**
+<!-- - 🌱 I’m currently learning **NLP** -->
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -16,10 +16,10 @@
 
 <!-- - 📖 check out my blog [here](https://goldedem.hashnode.dev/) -->
 
-- 📫 Reach me at **nosautem@gmail.com**
+<!-- - 📫 Reach me at **** -->
 <!-- - ✒ Visit my personal website [here](https://goldedem.hashnode.dev/) -->
 
-- ⚡ Fun fact **I love Cycling and Classic Literature**
+- ⚡ Fun fact **I love cycling and classic literature**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -35,7 +35,7 @@
 
 <h3 align="left">My Stats:</h3>
 
-![Edem Gold's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnTrecker&show_icons=true&theme=tokyonight&count_private=true)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnTrecker&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnTrecker&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 ](https://github.com/JohnTrecker/github-readme-stats)
