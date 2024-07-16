@@ -16,7 +16,7 @@
 
 <!-- - 📖 check out my blog [here](https://goldedem.hashnode.dev/) -->
 
-- 📫 Reach me at
+<!-- - 📫 Reach me at -->
 - ✒ Visit my personal website [here](https://johntrecker.com/)
 
 - ⚡ Fun fact **I love cycling and classic literature**
