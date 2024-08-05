@@ -35,7 +35,7 @@
 
 <h3 align="left">My Stats:</h3>
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnTrecker&show_icons=true&theme=tokyonight&count_private=true)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnTrecker&show_icons=true&theme=tokyonight&hide_rank=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnTrecker&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 ](https://github.com/JohnTrecker/github-readme-stats)
