@@ -6,11 +6,7 @@
 <!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/edemgold) -->
 [![My Website](https://img.shields.io/website?label=My-Webiste&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://johntrecker.com)
 
-- 🔭 I'm currently looking for Machine Learning projects.
-
-<!-- - 🌱 I’m currently learning **NLP** -->
-
-- 👯 I’m looking to collaborate on **open source projects**
+- 🔭 I'm currently looking to collaborate on Machine Learning projects.
 
 - 💬 Ask me about **myself and what I do**
 
